@@ -51,7 +51,8 @@
             </div>
 
         </div> -->
-        <nav class="navbar fixed-top navbar-expand-lg nav-bar-cus">
+        <nav class="navbar navbar-expand-lg nav-bar-cus fixed-top">
+            
             <a class=" logo-cus ml-sm-1" href="#">Logo</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
                 aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -83,14 +84,14 @@
         <section id="home" class="main">
             <div class="container">
                 <div class="row d-flex">
-                    <div class="col-lg-6 col-sm-12" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-6 col-sm-12" data-aos="fade-right" data-aos-delay="100">
                         <div class="row text-left mt-5">
-                            <div class="col">
+                            <div class="col-12">
                                 <h2>We help your business grow online leads and revenue</h2>
                             </div>
                         </div>
                         <div class="row text-muted mt-2">
-                            <div class="col">
+                            <div class="col-12">
                                 <h6>The CSS filter property adds visual effects (like blur and saturation) to an
                                     element.
 
@@ -98,18 +99,18 @@
                             </div>
                         </div>
                         <div class="row mt-2">
-                            <div class="col">
+                            <div class="col-12">
                                 <button type="button" class="btn btn-primary btn-style">Get Started</button>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-sm-12" data-aos="fade-left" data-aos-delay="100">
+                    <div class="col-lg-6 col-sm-12" data-aos="fade-up" data-aos-delay="100">
                         <img src="img/avanze-images/home/banner-right.png" class="img-fluid img"
                             alt="Resposnsive image">
                     </div>
                 </div>
                 <div class="row">
-                    <div class=" col-sm-12 col-md-4 col-lg-4  mt-3" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-sm-12 col-md-4 col-lg-4  mt-3" data-aos="fade-up" data-aos-delay="100">
                         <div class="card card-cus">
                             <div class="text-center">
                                 <img src="img/avanze-images/home/icon-1.png" class="card-img-top home-icons" alt="...">
@@ -152,7 +153,7 @@
             </div>
         </section>
 
-        <section id="about">
+        <section id="about"  class="main">
 
             <div class="container">
                 <div class="row mt-4">
@@ -241,16 +242,12 @@
 
                 </div>
 
-                <!-- <div class="row" >
-                   <div class="col-12">
-                       <img src="http://placehold.jp/5054f9/f7f9fa/750x400.png" width="100%" alt="" srcset="">
-                   </div>
-                </div> -->
+              
 
                 <div class="row">
                     <div class="col-md-12">
                         <div class="row d-flex justify-content-center" style="margin-bottom: -8%">
-                            <div class="stock-btm-cus-col" data-aos="fade-right" data-aos-delay="200">
+                            <div class="stock-btm-cus-col" data-aos="fade-down" data-aos-delay="200">
                                 <div class="card">
                                     <div class="text-center">
                                         <img src="img/avanze-images/about/icon-1.png" class="card-img-top home-icons"
@@ -262,7 +259,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class=" stock-btm-cus-col" data-aos="fade-right" data-aos-delay="100">
+                            <div class=" stock-btm-cus-col" data-aos="fade-down" data-aos-delay="100">
                                 <div class="card">
                                     <div class="text-center">
                                         <img src="img/avanze-images/about/icon-2.png" class="card-img-top home-icons"
@@ -274,7 +271,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class=" stock-btm-cus-col" data-aos="fade-left" data-aos-delay="100">
+                            <div class=" stock-btm-cus-col" data-aos="fade-up" data-aos-delay="100">
                                 <div class="card">
                                     <div class="text-center">
                                         <img src="img/avanze-images/about/icon-3.png" class="card-img-top home-icons"
@@ -286,7 +283,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class=" stock-btm-cus-col" data-aos="fade-left" data-aos-delay="200">
+                            <div class=" stock-btm-cus-col" data-aos="fade-up" data-aos-delay="200">
                                 <div class="card">
                                     <div class="text-center">
                                         <img src="img/avanze-images/about/icon-4.png" class="card-img-top home-icons"
@@ -304,7 +301,7 @@
             </div>
         </section>
 
-        <section id="client">
+        <section id="client"  class="main">
             <div class="container-fluid mt-5" style="margin-top:20% !important">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 text-center" data-aos="fade-up" data-aos-delay="300">
@@ -366,7 +363,7 @@
             </div>
         </section>
 
-        <section id="pricing">
+        <section id="pricing"  class="main">
             <div class="container-fluid mb-5 pricing-container">
                 <div class="row" data-aos="fade-down" data-aos-delay="100">
                     <div class="col-12 text-center">

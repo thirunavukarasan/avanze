@@ -6,7 +6,8 @@
     margin-right: 25% !important;
 }
 .nav-list > li {
-    padding-right: 15%;
+    /* padding-right: 15%; */
+    padding-left: 10%;
 }
 .nav-bar-cus {
     background-color: white;
